@@ -1,0 +1,126 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Kreon', serif;
+  font-size: 20px;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #A9A9A9;
+  width: 5%;
+}
+
+.me {
+  height: 150px;
+  width: 150px;
+  margin-top: 50px;
+}
+
+.intro {
+  margin: 20px 0 70px;
+}
+
+h1{
+  font-family: 'Amatic SC', cursive;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'New Tegomin', serif;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Caveat', cursive;
+  font-size: 35px;
+  color: #11999E;
+  margin: auto;
+}
+
+.margin {
+  margin: 70px 0 20px;
+}
+
+.noob {
+  font-size: 25px;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #FAF9F6;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 40px 0 20px 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 310px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.series {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.BUTTON_GLP {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #11999E;
+  border: solid #11999E 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 20px 0 70px 0;
+}
+
+.as {
+  color: #EAF6F6;
+}
